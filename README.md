@@ -1,43 +1,70 @@
-# Your Name
+# Mohammed Alkhalifah
 
-![Profile Picture](link-to-your-profile-picture.png)
+![Profile Picture](URL-to-your-profile-picture.png)
 
 ## Summary
 
-Briefly introduce yourself, your professional background, and your career goals.
+I am a creative computing student with advanced coding skills in Python, HTML, C++, JavaScript, and I'm familiar with p5.js, Tone.js, and openFrameworks. I specialize in generative art and have experience creating sketches that explore various techniques, including autonomous agents, fractals, phase sketches, and particle systems. I also have a fundamental understanding of application development, UX/UI design, web development, and graphics design. Currently in my second year at university, I am actively seeking internship opportunities for the upcoming summer.
 
 ## Education
 
-- Degree: Your Degree
-  - University: Your University
-  - Year: Graduation Year
+- **Creative Computing Student**
+  - University: [Your University Name]
+  - Expected Graduation Year: [Your Expected Graduation Year]
 
-## Experience
+## Work Experience
 
-- Job Title: Your Job Title
-  - Company: Company Name
-  - Dates: Start Date - End Date
-  - Description: Describe your responsibilities and achievements.
+- **Position: [Your Job Title]**
+  - Company: [Company Name]
+  - Dates: [Start Date] - [End Date]
+  - Responsibilities and Achievements:
+    - [Describe your responsibilities and accomplishments in this role.]
 
 ## Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Python
+- HTML
+- C++
+- JavaScript
+- p5.js
+- Tone.js
+- openFrameworks
+- UX/UI Design
+- Web Development
+- Graphics Design
 
 ## Projects
 
-### Project 1
+### Generative Drawing Sketches
 
-- Project Description: A brief description of the project.
-- GitHub Repository: [Link to the Repository](https://github.com/your-username/project1)
+1. **Autonomous Agents Sketch**
+   - Description: [Briefly describe the autonomous agents sketch, its purpose, and any notable features.]
+   - GitHub Repository: [Link to the Repository](URL-to-the-repository)
 
-### Project 2
+2. **Fractal Sketch**
+   - Description: [Briefly describe the fractal sketch, its purpose, and any notable features.]
+   - GitHub Repository: [Link to the Repository](URL-to-the-repository)
 
-- Project Description: A brief description of the project.
-- GitHub Repository: [Link to the Repository](https://github.com/your-username/project2)
+3. **Phase Sketch**
+   - Description: [Briefly describe the phase sketch, its purpose, and any notable features.]
+   - GitHub Repository: [Link to the Repository](URL-to-the-repository)
+
+4. **Particle System Sketch**
+   - Description: [Briefly describe the particle system sketch, its purpose, and any notable features.]
+   - GitHub Repository: [Link to the Repository](URL-to-the-repository)
+
+### UX/UI and Graphics Design
+
+5. **Application Development with UX/UI Design**
+   - Description: [Describe the application you worked on, your role in UX/UI design, and any achievements.]
+   - GitHub Repository (if applicable): [Link to the Repository](URL-to-the-repository)
+
+6. **Web and Graphics Design Project**
+   - Description: [Briefly describe your web and graphics design project, its purpose, and any notable features.]
+   - GitHub Repository (if applicable): [Link to the Repository](URL-to-the-repository)
 
 ## Contact Information
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/)
+- Email: [m.alkhalifah@hotmail.com]
+- LinkedIn: [Your LinkedIn Profile](URL-to-your-LinkedIn-profile)
+

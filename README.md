@@ -39,7 +39,7 @@ I am a creative computing student with advanced coding skills in Python, HTML, C
 
 1. **Autonomous Agents Sketch**
    - Description: [Briefly describe the autonomous agents sketch, its purpose, and any notable features.]
-   - GitHub Repository: [Link to the Repository](URL-to-the-repository)
+   - GitHub Repository: [Link to the Repository]([URL-to-the-repository](https://doc.gold.ac.uk/~malkh001/autonomousAgents/index.html))
 
 2. **Fractal Sketch**
    - Description: [Briefly describe the fractal sketch, its purpose, and any notable features.]

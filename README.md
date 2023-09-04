@@ -47,7 +47,7 @@ I am a creative computing student with advanced coding skills in Python, HTML, C
 
 3. **Phase Sketch**
    - Description: [Briefly describe the phase sketch, its purpose, and any notable features.]
-   - GitHub Repository: [Link to the Repository](URL-to-the-repository)
+   - GitHub Repository: [Link to the Repository](https://doc.gold.ac.uk/~malkh001/phaseSketch/index.html)
 
 4. **Particle System Sketch**
    - Description: [Briefly describe the particle system sketch, its purpose, and any notable features.]
@@ -61,10 +61,10 @@ I am a creative computing student with advanced coding skills in Python, HTML, C
 
 6. **Web and Graphics Design Project**
    - Description: [Briefly describe your web and graphics design project, its purpose, and any notable features.]
-   - GitHub Repository (if applicable): [Link to the Repository](URL-to-the-repository)
+   - GitHub Repository (if applicable): [Link to the Repository](https://doc.gold.ac.uk/~malkh001/ccp/saudiArabia/home.html)
 
 ## Contact Information
 
 - Email: [m.alkhalifah@hotmail.com]
-- LinkedIn: [Your LinkedIn Profile](URL-to-your-LinkedIn-profile)
+- LinkedIn: [Your LinkedIn Profile][(URL-to-your-LinkedIn-profile)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B99Kg7iinQg2VOvQFLBy0Jg%3D%3D)https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B99Kg7iinQg2VOvQFLBy0Jg%3D%3D
 

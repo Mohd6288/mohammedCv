@@ -57,7 +57,9 @@ I am a creative computing student with advanced coding skills in Python, HTML, C
 
 5. **Application Development with UX/UI Design**
    - Description: [Describe the application you worked on, your role in UX/UI design, and any achievements.]
-   - GitHub Repository (if applicable): [Link to the Repository](URL-to-the-repository)
+   - GitHub Repository (if applicable): [Link to the Repository](https://www.figma.com/proto/CsPjykLNtZYDJ5EhRgAIIL/those-bishes-doin-stuff?node-id=509-181&starting-point-node-id=509%3A181&mode=design&t=tbC7J8TcC65vtvph-1)
+   -  - Description: [Describe the application you worked on, your role in UX/UI design, and any achievements.]
+   - GitHub Repository (if applicable): [Link to the Repository](https://www.figma.com/proto/VdmcerT8E2XPozPBb9fXXf/Gym-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=bAGyT6Bia7xuPBn6-1)
 
 6. **Web and Graphics Design Project**
    - Description: [Briefly describe your web and graphics design project, its purpose, and any notable features.]
@@ -66,5 +68,5 @@ I am a creative computing student with advanced coding skills in Python, HTML, C
 ## Contact Information
 
 - Email: [m.alkhalifah@hotmail.com]
-- LinkedIn: [Your LinkedIn Profile][(URL-to-your-LinkedIn-profile)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B99Kg7iinQg2VOvQFLBy0Jg%3D%3D)https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B99Kg7iinQg2VOvQFLBy0Jg%3D%3D
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed-a-alkhalifa-68322b1bb/)
 

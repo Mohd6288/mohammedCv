@@ -1,6 +1,5 @@
 # Mohammed Alkhalifah
 
-![Profile Picture]()
 
 ## Summary
 
